@@ -5,7 +5,7 @@
 
 ### Other scripts you need
 ```lua
-- Ghmattimysql (Recommend using Ghmattimysql (Mysql-Async is old and slower)
+- Ghmattimysql [Recommend using Ghmattimysql (Mysql-Async is old and slower)]
 
 ```
 ### Installation
